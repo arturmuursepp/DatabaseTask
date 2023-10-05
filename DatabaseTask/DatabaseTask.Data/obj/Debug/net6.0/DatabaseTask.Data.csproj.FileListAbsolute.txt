@@ -1,0 +1,17 @@
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.deps.json
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.runtimeconfig.json
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.dll
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.pdb
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Core.dll
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Core.pdb
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.AssemblyInfo.cs
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.CopyComplete
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.dll
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\refint\DatabaseTask.Data.dll
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.pdb
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.genruntimeconfig.cache
+C:\Users\artur\source\repos\DatabaseTask\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\ref\DatabaseTask.Data.dll
